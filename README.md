@@ -1,1 +1,1 @@
-go to versions and download the zip folder to install the optimizer
+go to releases and download the zip folder to install the optimizer
